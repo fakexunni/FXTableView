@@ -1,0 +1,42 @@
+PODS:
+  - IQKeyboardManager (6.5.5)
+  - Masonry (1.1.0)
+  - MJRefresh (3.3.1)
+  - MyLayout (1.9.1)
+  - SVProgressHUD (2.2.5)
+  - "UITextView+Placeholder (1.4.0)"
+  - YYKit (1.0.9):
+    - YYKit/no-arc (= 1.0.9)
+  - YYKit/no-arc (1.0.9)
+
+DEPENDENCIES:
+  - IQKeyboardManager
+  - Masonry
+  - MJRefresh
+  - MyLayout
+  - SVProgressHUD
+  - "UITextView+Placeholder"
+  - YYKit
+
+SPEC REPOS:
+  https://github.com/CocoaPods/Specs.git:
+    - IQKeyboardManager
+    - Masonry
+    - MJRefresh
+    - MyLayout
+    - SVProgressHUD
+    - "UITextView+Placeholder"
+    - YYKit
+
+SPEC CHECKSUMS:
+  IQKeyboardManager: 3a8b9e603f8b0eeaf5f096a1f2b2cfcf121992ef
+  Masonry: 678fab65091a9290e40e2832a55e7ab731aad201
+  MJRefresh: eeda70fbf0ad277f3178cef1cd0c3532591d6237
+  MyLayout: 6e44860ef5a857cf50178c68e01099c0926cd7c7
+  SVProgressHUD: 1428aafac632c1f86f62aa4243ec12008d7a51d6
+  "UITextView+Placeholder": d7b0c400921f66523f3a85d74f774512e14f6502
+  YYKit: 7cda43304a8dc3696c449041e2cb3107b4e236e7
+
+PODFILE CHECKSUM: ba7822bc4d7ec58df09d15e0b3eb7c97f642beb3
+
+COCOAPODS: 1.8.4
